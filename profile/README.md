@@ -1,4 +1,4 @@
-**CTD Games** is a an affiliated but independent game studio with [Confoederatio](https://github.com/ConfoederatioVF) working on grand-strategy and simulation mods and games. We also develop game engines for use in future projects, but most game development has been largely paused since early 2025.
+**CTD Games** is a an affiliated but independent game studio with [Confoederatio](https://github.com/ConfoederatioVF). We also develop game engines for grand-strategy and simulation, as well as modding tools and APIs.
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based modding API and game engine for AOC3.
